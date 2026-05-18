@@ -247,6 +247,8 @@ ModelAccuracyPrecisionRecallF1-ScoreROC-AUCLogistic Regression (Task 4)~97.37%~9
 
 • Place in the Final Model Comparison section immediately after the complete 4-model results table.
 
+![Final Comparsion](https://github.com/suriya2318/Ml-Ensemble-Learning-Optimization-Pipeline/blob/main/Final%20Comparison.png)
+
 ### Chart 2 — ROC Curves (All 4 Models)
 • Four ROC curves plotted on the same axes — each in a distinct color matching Chart 1 color scheme.
 
