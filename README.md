@@ -260,6 +260,8 @@ ModelAccuracyPrecisionRecallF1-ScoreROC-AUCLogistic Regression (Task 4)~97.37%~9
 
 • Place in the Final Model Comparison section immediately after Chart 1 — provides threshold-independent performance view.
 
+![ROC Curves](https://github.com/suriya2318/Ml-Ensemble-Learning-Optimization-Pipeline/blob/main/ROC%20Covers.png)
+
 ### Chart 3 — Cross-Validation F1-Score Comparison (With Error Bars)
 • Bar chart showing CV F1 mean for each model with error bars representing standard deviation across 5 folds.
 
@@ -268,6 +270,8 @@ ModelAccuracyPrecisionRecallF1-ScoreROC-AUCLogistic Regression (Task 4)~97.37%~9
 • Tuned Random Forest bar is tallest with the smallest error bar — best accuracy and most stable.
 
 • Place in the Cross-Validation section immediately after the CV results table.
+
+![F1 Score Comparison](https://github.com/suriya2318/Ml-Ensemble-Learning-Optimization-Pipeline/blob/main/F1%20Score%20Comparison.png)
 
 ### Chart 4 — Feature Importance Horizontal Bar Chart (Top 15)
 
@@ -281,6 +285,8 @@ ModelAccuracyPrecisionRecallF1-ScoreROC-AUCLogistic Regression (Task 4)~97.37%~9
 
 • Place in the Feature Importance section after importance scores are extracted from the Random Forest.
 
+![Feature Importance](https://github.com/suriya2318/Ml-Ensemble-Learning-Optimization-Pipeline/blob/main/Feature%20Importance.png)
+
 ### Chart 5 — Confusion Matrix Heatmap (Tuned Random Forest)
 • 2×2 heatmap with red color scheme showing TN, FP, FN, TP counts for the final selected model.
 
@@ -290,7 +296,9 @@ ModelAccuracyPrecisionRecallF1-ScoreROC-AUCLogistic Regression (Task 4)~97.37%~9
 
 • False Positive cell (missed cancers) must be minimal for safe medical deployment.
 
-CPlace in the Final Model Evaluation section after the best model is declared and test metrics reported.
+• CPlace in the Final Model Evaluation section after the best model is declared and test metrics reported.
+
+![Cross validation](https://github.com/suriya2318/Ml-Ensemble-Learning-Optimization-Pipeline/blob/main/Confusion%20Matrix.png)
 
 ## Project Insights
 
